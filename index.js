@@ -1,0 +1,1 @@
+console.log("Curso de Manicuría - diseño premium cargado ✨");
